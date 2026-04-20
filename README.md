@@ -1,0 +1,1 @@
+Automated weekly extraction of Indonesia Coal Index (ICI) prices from PDF reports using Python, converting unstructured data into structured Excel datasets to streamline data maintenance and reduce manual workload.
